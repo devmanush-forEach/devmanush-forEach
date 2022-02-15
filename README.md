@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm NIkhil Shakya</h1>
 <h3 align="center">Self-motivated,collaborative, good team-work and always excited to do workon end to end projects and curious to work with experts in computer programming.</h3>
 
-- 🌱 I’m currently learning **React and Redux**
+- 🌱 I’m currently learning **Full stack web development**
 
 - 💬 Ask me about **Full stack web development**
 
