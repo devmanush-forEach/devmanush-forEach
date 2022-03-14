@@ -8,6 +8,7 @@
 - 📫 How to reach me **shakyanikhil12345@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/12vrPTEwvbs-dpXela6h_amc6bVSfWDdM?usp=sharing](https://drive.google.com/drive/folders/12vrPTEwvbs-dpXela6h_amc6bVSfWDdM?usp=sharing)
+- <a href = "https://drive.google.com/drive/folders/12vrPTEwvbs-dpXela6h_amc6bVSfWDdM?usp=sharing">See my resume<a/>
 
 - ⚡ Fun fact **I am foody.**
 
